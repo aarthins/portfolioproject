@@ -1,0 +1,7 @@
+﻿starting
+Entering calculateanddisplay
+File Exists
+Displaying overall price in descending order
+234820.1
+75588.05
+57459.55

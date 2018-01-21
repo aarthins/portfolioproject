@@ -1,0 +1,2 @@
+﻿Message: Test method UnitTestProject1.UnitTest1.invalidsymbolandprice threw exception: 
+System.AggregateException: One or more errors occurred. ---> System.Exception: Exception of type 'System.Exception' was thrown.
